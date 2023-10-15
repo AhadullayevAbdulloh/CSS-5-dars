@@ -1,0 +1,249 @@
+body{
+    background-color: lemonchiffon;
+}
+.men1{
+    margin-top: 35px;
+}
+.btn1{
+    border: 1px solid blue;
+    border-width: 20px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    margin-left: 50px;
+}
+.btn2{
+    border: 1px solid greenyellow;
+    border-width: 20px;
+    background-color: greenyellow;
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+}
+.btn3{
+     border: 1px solid deepskyblue;
+     border-width: 20px;
+     background-color: deepskyblue;
+     color: #ffffff;
+     text-decoration: none;
+     margin-left: 5px;
+}
+.btn4{
+    border: 1px solid orange;
+    border-width: 20px;
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+}
+.btn5{
+    border: 1px solid red;
+    border-width: 20px;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+}
+.men2{
+    margin-top: 55px;
+    padding-left: 40px;
+}
+.btn11{
+    color: blue;
+    text-decoration: none;
+    margin-left: 10px;
+    background-color: transparent;
+    background-image: none;
+   border: 1px solid blue;
+    padding: 18px 18px;
+    border-radius: 5px;
+}
+.btn22{
+    color: greenyellow;
+    text-decoration: none;
+    margin-left: 5px;
+    background-color: transparent;
+    background-image: none;
+    border: 1px solid greenyellow;
+    padding: 18px 15px;
+    border-radius: 5px;
+}
+.btn33{
+    color: deepskyblue;
+    text-decoration: none;
+    margin-left: 5px;
+    background-color: transparent;
+    background-image: none;
+    border: 1px solid deepskyblue;
+    padding: 18px 18px;
+    border-radius: 5px;
+}
+.btn44{
+    color: orange;
+    text-decoration: none;
+    margin-left: 5px;
+    background-color: transparent;
+    background-image: none;
+    border: 1px solid orange;
+    padding: 18px 18px;
+    border-radius: 5px;
+}
+.btn55{
+    color: red;
+    text-decoration: none;
+    margin-left: 5px;
+    background-color: transparent;
+    background-image: none;
+    border: 1px solid red;
+    padding: 18px 18px;
+    border-radius: 5px;
+}
+.men3{
+    margin-top: 55px;
+}
+.btn111{
+    border: 1px solid blue;
+    border-width: 20px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    margin-left: 50px;
+    border-radius: 8px;
+}
+.btn222{
+    border: 1px solid greenyellow;
+    border-width: 20px;
+    background-color: greenyellow;
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+    border-radius: 8px;
+}
+.btn333{
+    border: 1px solid deepskyblue;
+    border-width: 20px;
+    background-color: deepskyblue;
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+    border-radius: 8px;
+}
+.btn444{
+    border: 1px solid orange;
+    border-width: 20px;
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+    border-radius: 8px;
+}
+.btn555{
+    border: 1px solid red;
+    border-width: 20px;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+    border-radius: 8px;
+}
+.men4{
+    margin-top: 55px;
+}
+.btn1111{
+    border: 1px solid blue;
+    border-width: 20px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    margin-left: 50px;
+    border-radius: 28px;
+}
+.btn2222{
+    border: 1px solid greenyellow;
+    border-width: 20px;
+    background-color: greenyellow;
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+    border-radius: 28px;
+}
+.btn3333{
+    border: 1px solid deepskyblue;
+    border-width: 20px;
+    background-color: deepskyblue;
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+    border-radius: 28px;
+}
+.btn4444{
+    border: 1px solid orange;
+    border-width: 20px;
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+    border-radius: 28px;
+}
+.btn5555{
+    border: 1px solid red;
+    border-width: 20px;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+    border-radius: 28px;
+}
+.men5{
+    margin-top: 55px;
+}
+.btn11111{
+    border: 1px solid blue;
+    border-width: 20px;
+    box-shadow: 0 3px 0 0 darkblue;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    margin-left: 50px;
+    border-radius: 8px;
+}
+.btn22222{
+    border: 1px solid greenyellow;
+    border-width: 20px;
+    box-shadow: 0 3px 0 0 darkgreen;
+    background-color: greenyellow;
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+    border-radius: 8px;
+}
+.btn33333{
+    border: 1px solid deepskyblue;
+    border-width: 20px;
+    box-shadow: 0 3px 0 0 blue;
+    background-color: deepskyblue;
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+    border-radius: 8px;
+}
+.btn44444{
+    border: 1px solid orange;
+    border-width: 20px;
+    box-shadow: 0 3px 0 0 darkorange;
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+    border-radius: 8px;
+}
+.btn55555{
+    border: 1px solid red;
+    border-width: 20px;
+    box-shadow: 0 3px 0 0 darkred;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+    border-radius: 8px;
+}

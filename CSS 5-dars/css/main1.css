@@ -1,0 +1,33 @@
+body{
+    background-color: #c8e9fb;
+    margin: 0;
+    padding: 0;
+}
+.bir{
+    background-color: white;
+}
+.bir-bor{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  margin-top:  -40px;
+}
+.bir-ekan{
+    display: inline-block;
+    padding: 15px 15px;
+}
+.bir-ekan a{
+    color: black;
+    text-decoration: none;
+}
+.bir-ekan:hover a{
+    color: #34c9cb;
+}
+.uztelekom{
+    margin-top: 30px;
+    margin-left: 90px;
+}
+.poisk{
+    margin-left: 1330px;
+    margin-top: -30px;
+}

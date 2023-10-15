@@ -1,0 +1,313 @@
+.bir{
+    border: 3px solid darkgray;
+    width: 430px;
+    height: 210px;
+}
+.rasm{
+    border: 2px solid darkgray;
+    width: 110px;
+    height: 90px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-left: 25px;
+   /* background-color: lightgray;*/
+}
+.bir1{
+    position: absolute;
+    top: 5px;
+    left: 170px;
+}
+.bir2{
+    position: absolute;
+    top: 75px;
+    left: 170px;
+}
+.rasm3{
+    position: absolute;
+    top: 105px;
+    left: 170px;
+}
+.bir5{
+    position: absolute;
+    top: 105px;
+    left: 195px;
+}
+.rasm4{
+    position: absolute;
+    top: 105px;
+    left: 260px;
+}
+.bir6{
+    position: absolute;
+    top: 105px;
+    left: 290px;
+}
+.rasm1{
+    position: absolute;
+    top: 135px;
+    left: 15px;
+}
+.bir3{
+    position: absolute;
+    top: 135px;
+    left: 45px;
+}
+.rasm2{
+    position: absolute;
+    top: 135px;
+    left: 90px;
+}
+.bir4{
+    position: absolute;
+    top: 135px;
+    left: 115px;
+}
+.rasm5{
+    position: absolute;
+    top: 170px;
+    left: 15px;
+}
+.rasm6{
+    position: absolute;
+    top: 175px;
+    left: 325px;
+}
+
+
+
+.ikki{
+    border: 3px solid darkgray;
+    width: 430px;
+    height: 210px;
+    margin-left: 450px;
+    margin-top: -215px;
+}
+.rasm{
+    border: 2px solid darkgray;
+    width: 110px;
+    height: 90px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-left: 25px;
+    /* background-color: lightgray;*/
+}
+.bir11{
+    position: absolute;
+    top: 5px;
+    left: 620px;
+}
+.bir22{
+    position: absolute;
+    top: 75px;
+    left: 620px;
+}
+.rasm33{
+    position: absolute;
+    top: 105px;
+    left: 620px;
+}
+.bir55{
+    position: absolute;
+    top: 105px;
+    left: 645px;
+}
+.rasm44{
+    position: absolute;
+    top: 105px;
+    left: 710px;
+}
+.bir66{
+    position: absolute;
+    top: 105px;
+    left: 735px;
+}
+.rasm11{
+    position: absolute;
+    top: 135px;
+    left: 465px;
+}
+.bir33{
+    position: absolute;
+    top: 135px;
+    left: 495px;
+}
+.rasm22{
+    position: absolute;
+    top: 135px;
+    left: 540px;
+}
+.bir44{
+    position: absolute;
+    top: 135px;
+    left: 565px;
+}
+.rasm55{
+    position: absolute;
+    top: 170px;
+    left: 465px;
+}
+.rasm66{
+    position: absolute;
+    top: 175px;
+    left: 775px;
+}
+
+
+.uch{
+    border: 3px solid darkgray;
+    width: 430px;
+    height: 210px;
+    margin-top: 10px;
+    margin-left: 0;
+}
+.rasm{
+    border: 2px solid darkgray;
+    width: 110px;
+    height: 90px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-left: 25px;
+    /* background-color: lightgray;*/
+}
+.bir111{
+    position: absolute;
+    top: 225px;
+    left: 170px;
+}
+.bir222{
+    position: absolute;
+    top: 295px;
+    left: 170px;
+}
+.rasm333{
+    position: absolute;
+    top: 325px;
+    left: 170px;
+}
+.bir555{
+    position: absolute;
+    top: 325px;
+    left: 195px;
+}
+.rasm444{
+    position: absolute;
+    top: 325px;
+    left: 260px;
+}
+.bir666{
+    position: absolute;
+    top: 325px;
+    left: 290px;
+}
+.rasm111{
+    position: absolute;
+    top: 360px;
+    left: 15px;
+}
+.bir333{
+    position: absolute;
+    top: 360px;
+    left: 45px;
+}
+.rasm222{
+    position: absolute;
+    top: 360px;
+    left: 90px;
+}
+.bir444{
+    position: absolute;
+    top: 360px;
+    left: 115px;
+}
+.rasm555{
+    position: absolute;
+    top: 390px;
+    left: 15px;
+}
+.rasm666{
+    position: absolute;
+    top: 395px;
+    left: 325px;
+}
+
+
+.tort{
+    border: 3px solid darkgray;
+    width: 430px;
+    height: 210px;
+    margin-left: 450px;
+    margin-top: -215px;
+}
+.rasm{
+    border: 2px solid darkgray;
+    width: 110px;
+    height: 90px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-left: 25px;
+    /* background-color: lightgray;*/
+}
+.bir1111{
+    position: absolute;
+    top: 225px;
+    left: 620px;
+}
+.bir2222{
+    position: absolute;
+    top: 295px;
+    left: 620px;
+}
+.rasm3333{
+    position: absolute;
+    top: 325px;
+    left: 620px;
+}
+.bir5555{
+    position: absolute;
+    top: 325px;
+    left: 645px;
+}
+.rasm4444{
+    position: absolute;
+    top: 325px;
+    left: 710px;
+}
+.bir6666{
+    position: absolute;
+    top: 325px;
+    left: 735px;
+}
+.rasm1111{
+    position: absolute;
+    top: 360px;
+    left: 465px;
+}
+.bir3333{
+    position: absolute;
+    top: 360px;
+    left: 495px;
+}
+.rasm2222{
+    position: absolute;
+    top: 360px;
+    left: 540px;
+}
+.bir4444{
+    position: absolute;
+    top: 360px;
+    left: 565px;
+}
+.rasm5555{
+    position: absolute;
+    top: 390px;
+    left: 465px;
+}
+.rasm6666{
+    position: absolute;
+    top: 395px;
+    left: 775px;
+}

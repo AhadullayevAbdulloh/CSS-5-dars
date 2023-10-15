@@ -1,0 +1,93 @@
+.bir{
+    border: 1px solid lightgrey;
+    width: 320px;
+    height: 540px;
+    margin-left: 150px;
+    margin-top: 50px;
+    box-shadow: 1px 2px 0 3px lightgray;
+}
+.ikki2{
+    border: 1px solid orange;
+    background-color: orange;
+    color: white;
+    width: 90px;
+    height: 60px;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 45px;
+    position: absolute;
+    top: 94px;
+    right: 1080px;
+}
+.uch1{
+    color: gray;
+    margin-left: 15px;
+}
+.uch2{
+    border: 1px solid lawngreen;
+    width: 70px;
+    height: 20px;
+    padding: 5px;
+    text-align: center;
+    background-color: lawngreen;
+    color: white;
+    position: absolute;
+    top: 375px;
+    left: 260px;
+    border-radius: 5px;
+}
+.uch3{
+    margin-left: 15px;
+    margin-top: 5px;
+    font-weight: bolder;
+}
+.uch4{
+    color: gray;
+    position: absolute;
+    bottom: 215px;
+    left: 290px;
+    text-decoration: line-through;
+}
+.uch5{
+    position: absolute;
+    bottom: 180px;
+    left: 290px;
+}
+.uch6{
+    border: 1px solid yellow;
+    width: 60px;
+    height: 15px;
+    padding: 5px;
+    text-align: center;
+    background-color: yellow;
+    color: black;
+    position: absolute;
+    bottom: 160px;
+    left: 290px;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+.uch7{
+    position: absolute;
+    bottom: 163px;
+    left: 367px;
+}
+.rasm2{
+    position: absolute;
+    bottom: 220px;
+    left: 175px;
+}
+.uch8{
+    border: 1px solid red;
+    width: 85px;
+    height: 45px;
+    text-align: center;
+    background-color: red;
+    color: white;
+    position: absolute;
+    bottom: 160px;
+    left: 170px;
+    border-radius: 15px;
+    font-weight: bolder;
+}
+
